@@ -7,7 +7,7 @@
   "packageRules": [
     {
       "matchUpdateTypes": ["major"],
-      "dependencyApproval": true
+      "dependencyDashboardApproval": true
     }
   ]
 }
