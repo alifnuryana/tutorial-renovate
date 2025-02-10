@@ -1,6 +1,6 @@
 {
   "name": "renovate_tutorial",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple package json for Renovate tutorial use only",
   "author": "Philip",
   "license": "Apache-2.0",
